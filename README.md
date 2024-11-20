@@ -3,7 +3,7 @@
 - 📖 I'm currently studying Computer Information Technology at BCIT
 - 🌱 I’m currently learning Python, Node.js, Linux, and Guitar
 - 💞️ I’m looking to collaborate on anything dance or music-related and perhaps a game in the future 
-- 📫 How to reach me: on my [LinkedIn](https://www.linkedin.com/in/nana-s-b00a13299/)
+- 📫 How to reach me: on my [LinkedIn](www.linkedin.com/in/nanasysim)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My favourite animals are thresher sharks and whale sharks 🦈
 
