@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nana
 - 👀 I’m interested in all things tech, books, dance, music, and pottery
 - 📖 I'm currently studying Computer Information Technology at BCIT
-- 🌱 I’m currently learning Python, Node.js, Linux, and Guitar
+- 🌱 I’m currently learning Python, Unity, Mario Paint DAW and Guitar
 - 💞️ I’m looking to collaborate on anything dance or music-related and perhaps a game in the future 
 - 📫 How to reach me: on my [LinkedIn](www.linkedin.com/in/nanasysim)
 - 😄 Pronouns: She/Her
