@@ -2,9 +2,9 @@
 - 👀 I’m interested in all things tech, books, dance, music, and pottery
 - 📖 I'm currently studying Computer Information Technology at BCIT
 - 🌱 I’m currently learning Python, Unity, Mario Paint DAW and Guitar
+- 🖥️ Projects I'm currently working on: Software for Dancers, Story-driven horror game, Organizing a Virtual Hackathon
 - 💞️ I’m looking to collaborate on anything dance or music-related and perhaps a game in the future 
 - 📫 How to reach me: on my [LinkedIn](www.linkedin.com/in/nanasysim)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: My favourite animals are thresher sharks and whale sharks 🦈
 
 <!---
